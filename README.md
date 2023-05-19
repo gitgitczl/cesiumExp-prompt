@@ -2,6 +2,7 @@
 ## [在线api文档说明](http://mapgl.com/3dapi/Prompt.html)
 ## [在线体验地址](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)
 ## [更多案例地址](http://mapgl.com/shareCode/)
+## [免费gis数据](http://mapgl.com/shareData/)
 ***
 实现原理：
 Cesium和我们平时常见的leaflet、ol以及arcgis api是不一样的，其没有内置的气泡窗，那么就得靠我们手写气泡窗来实现了。
