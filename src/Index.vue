@@ -7,7 +7,6 @@
 </template>
 
 <script setup>
-import Map from "../Map.vue"
 import { onMounted, ref } from "vue";
 import Prompt from "./js/prompt/prompt.js"
 import util from "./js/util"
@@ -111,6 +110,12 @@ const move = () => {
 
 .toolbar-btn {
     margin: 10px;
+}
+
+#mapContainer{
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 </style>
 
