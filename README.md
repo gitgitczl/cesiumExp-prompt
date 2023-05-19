@@ -43,12 +43,12 @@ prompt1 = new Prompt(viewer, {
 ```
 ***
 更多案例地址（我们持续更新）：
-标绘插件：  
-      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)
+- 标绘插件：     
+      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)  
       码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)  
-气泡窗插件：
-      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)
-      码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)
+- 气泡窗插件：   
+      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)  
+      码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)  
 ***
 交流群：
     ![QQ群（606645466）](http://mapgl.com/data/images/qqqun.png)
