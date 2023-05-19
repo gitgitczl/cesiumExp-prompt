@@ -4,6 +4,8 @@
 ## [更多案例地址](http://mapgl.com/shareCode/)
 ## [免费gis数据](http://mapgl.com/shareData/)
 ***
+ps：如果可以的话，希望大家能给我个star，好让我有更新下去的动力；
+***
 实现原理：
 Cesium和我们平时常见的leaflet、ol以及arcgis api是不一样的，其没有内置的气泡窗，那么就得靠我们手写气泡窗来实现了。
 本插件样式是参考了leaflet来写的。
@@ -39,3 +41,14 @@ prompt1 = new Prompt(viewer, {
       y: evt.clientY
     })
 ```
+***
+更多案例地址（我们持续更新）：
+标绘插件：  
+      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)
+      码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)  
+气泡窗插件：
+      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)
+      码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)
+***
+交流群：
+    ![QQ群（606645466）](http://mapgl.com/data/images/qqqun.png)
