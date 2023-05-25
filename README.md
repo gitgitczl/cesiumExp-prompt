@@ -1,8 +1,8 @@
 # Cesium气泡窗插件
-## [在线api文档说明](http://mapgl.com/3dapi/Prompt.html)
-## [在线体验地址](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)
-## [更多案例地址](http://mapgl.com/shareCode/)
-## [免费gis数据](http://mapgl.com/shareData/)
+### [在线体验](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)  
+gitee：https://gitee.com/caozl1132/CesiumExp-prompt  
+github：https://github.com/gitgitczl/CesiumExp-prompt  
+
 ***
 ps：如果可以的话，希望大家能给我个star，好让我有更新下去的动力；
 ***
@@ -42,13 +42,9 @@ prompt1 = new Prompt(viewer, {
     })
 ```
 ***
-更多案例地址（我们持续更新）：
-- 标绘插件：     
-      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)  
-      码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)  
-- 气泡窗插件：   
-      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)  
-      码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)  
-***
-交流群：
-    ![QQ群（606645466）](http://mapgl.com/data/images/qqqun.png)
+其它：     
+qq群：606645466（GIS之家共享交流群）
+
+[更多案例地址](http://mapgl.com/shareCode/)&nbsp;&nbsp;&nbsp; [更多免费数据](http://mapgl.com/shareData/)&nbsp;&nbsp;&nbsp; [开发文档说明](http://mapgl.com/3dapi/)   
+
+[其它源码下载（标绘、量算、动态材质、漫游、地图分析等）](http://mapgl.com/introduce/)
